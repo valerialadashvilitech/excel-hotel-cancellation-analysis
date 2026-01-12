@@ -1,5 +1,13 @@
 # Hotel Cancellation Analysis in Excel
 
+📄 **View Full Project Report** (with charts, insights, change log, and visualizations):  
+[handling-hotel-data-project.pdf](handling-hotel-data-project.pdf)
+[visualizing-hotel-data.pdf](visualizing-hotel-data.pdf)
+
+📊 **Interactive Workbook**:  
+[Download Excel File](handling-hotel-data-project.xlsx)
+[Download Excel File](visualizing-hotel-data.xlsx)
+
 ## Project Overview
 This project performs a complete data analysis pipeline on hotel reservation data using Excel. It covers data cleaning/handling and advanced visualization to uncover patterns in cancellation rates, lead times, and distribution channels.
 
