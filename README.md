@@ -20,3 +20,7 @@ GitHub does not render Excel charts natively:
 1. Click on the desired .xlsx file.
 2. Click Download.
 3. Open in Microsoft Excel or Google Sheets to explore the full interactive content.
+
+Analysis by: Valeri Aladashvili
+
+Linkedin: www.linkedin.com/in/valeri-aladashvili-0094a91a9
