@@ -6,9 +6,9 @@
 [visualizing-hotel-data.pdf](visualizing-hotel-data.pdf)
 
 📊 **Interactive Workbook**:  
-[Download Excel File](handling-hotel-data-project.xlsx)
+[handling-hotel-data-project.xlsx](handling-hotel-data-project.xlsx)
 
-[Download Excel File](visualizing-hotel-data.xlsx)
+[visualizing-hotel-data.xlsx](visualizing-hotel-data.xlsx)
 
 ## Project Overview
 This project performs a complete data analysis pipeline on hotel reservation data using Excel. It covers data cleaning/handling and advanced visualization to uncover patterns in cancellation rates, lead times, and distribution channels.
