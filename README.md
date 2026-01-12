@@ -2,10 +2,12 @@
 
 📄 **View Full Project Report** (with charts, insights, change log, and visualizations):  
 [handling-hotel-data-project.pdf](handling-hotel-data-project.pdf)
+
 [visualizing-hotel-data.pdf](visualizing-hotel-data.pdf)
 
 📊 **Interactive Workbook**:  
 [Download Excel File](handling-hotel-data-project.xlsx)
+
 [Download Excel File](visualizing-hotel-data.xlsx)
 
 ## Project Overview
