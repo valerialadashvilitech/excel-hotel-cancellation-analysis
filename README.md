@@ -11,19 +11,29 @@
 [visualizing-hotel-data.xlsx](visualizing-hotel-data.xlsx)
 
 ## Project Overview
-This project performs a complete data analysis pipeline on hotel reservation data using Excel. It covers data cleaning/handling and advanced visualization to uncover patterns in cancellation rates, lead times, and distribution channels.
+This two-part Excel project (part of Codecademy’s “Excel for Data Analysis” course) analyzes a real-world hotel booking dataset (~119,000 reservations, 2015–2017).
+The primary goal was to identify cancellation drivers, evaluate risk factors (lead time, seasonality, distribution channel, hotel type), and provide actionable recommendations to reduce cancellations and optimize revenue management.
 
 ## Files
-- **handling-hotel-data-project.xlsx**: Focuses on data inspection, cleaning, formatting, and protection.
-- **visualizing-hotel-data.xlsx**: Builds visualizations (histograms, column charts, sparklines, pivot charts) to explore cancellation trends.
+- **handling-hotel-data-project.xlsx**: Data cleaning, outlier handling, pivot tables for seasonal cancellation rates, special request revenue analysis and protection.
+- **visualizing-hotel-data.xlsx**: Advanced visualizations (heatmaps, sparklines, charts) exploring lead time, seasonality, and channel patterns.
 
 ## Tools Used
-Microsoft Excel / Google Sheets (Data Cleaning, Conditional Formatting, Sparklines, Pivot Tables, Charts).
+Microsoft Excel / Google Sheets 
+- Pivot Tables
+- Conditional Formatting & Heatmaps
+- Sparklines & Trend Lines
+- Charts (bar, stacked)
+- Text Functions (TRIM, parsing)
+- Outlier Handling & Sheet Protection
+- Data Binning & Percentage Calculations
 
 ## Key Findings
-- Longer lead times strongly correlate with higher cancellation rates.
-- Certain channels show elevated cancellation frequency.
-- Proper data preparation enables clear, actionable visualizations.
+- Lead Time Risk: Long lead time bookings show significantly higher cancellation rates; the distribution is heavily right-skewed (most bookings are short-notice).
+- Seasonality Peaks: Both volume and cancellations spike in summer (June–August), especially for long-lead bookings; city hotels reach ~40–41% cancellation rates vs. ~10% for resort hotels.
+- Channel Differences: Agent channel dominates volume but has the longest average lead time (104 days) and highest proportion of long-lead bookings (46%); Corporate/Direct channels are shorter and more reliable.
+- Special Requests: Bookings with multiple special requests correlate with higher retention and revenue (~$20 average revenue per request, 2015–2017).
+- Strategic Verdict: Targeted policies (short-lead incentives, flexible cancellations for high-risk segments) can meaningfully reduce cancellations and improve occupancy predictability.
 
 ## How to View
 GitHub does not render Excel charts natively:
