@@ -21,6 +21,6 @@ GitHub does not render Excel charts natively:
 2. Click Download.
 3. Open in Microsoft Excel or Google Sheets to explore the full interactive content.
 
-Analysis by: Valeri Aladashvili
-
-Linkedin: www.linkedin.com/in/valeri-aladashvili-0094a91a9
+## About the Author
+Analysis by: Valeri Aladashvili  
+LinkedIn: https://www.linkedin.com/in/valeri-aladashvili-0094a91a9
